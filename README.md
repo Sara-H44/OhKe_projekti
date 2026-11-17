@@ -1,3 +1,3 @@
 # OhKe_projekti
-Lisätään myöhemmin. </br>
+Tähän projektin kuvaus, lisätään myöhemmin. </br>
 testi
