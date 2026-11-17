@@ -1,2 +1,2 @@
 # OhKe_projekti
-Lisätään myöhemmin
+Lisätään myöhemmin.
